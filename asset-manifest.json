@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/techsavvy/static/css/main.e0f3f45e.css",
-    "main.js": "/techsavvy/static/js/main.6a3e99c3.js",
+    "main.js": "/techsavvy/static/js/main.165fd81a.js",
     "static/js/787.1e0f5753.chunk.js": "/techsavvy/static/js/787.1e0f5753.chunk.js",
     "static/media/headphones.jpg": "/techsavvy/static/media/headphones.2b44a705c7109cc5252e.jpg",
     "static/media/macbook.jpg": "/techsavvy/static/media/macbook.cdf399e5d7724d81b74b.jpg",
@@ -22,11 +22,11 @@
     "static/media/shoes.avif": "/techsavvy/static/media/shoes.ca1edf998ab7f375b995.avif",
     "index.html": "/techsavvy/index.html",
     "main.e0f3f45e.css.map": "/techsavvy/static/css/main.e0f3f45e.css.map",
-    "main.6a3e99c3.js.map": "/techsavvy/static/js/main.6a3e99c3.js.map",
+    "main.165fd81a.js.map": "/techsavvy/static/js/main.165fd81a.js.map",
     "787.1e0f5753.chunk.js.map": "/techsavvy/static/js/787.1e0f5753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0f3f45e.css",
-    "static/js/main.6a3e99c3.js"
+    "static/js/main.165fd81a.js"
   ]
 }
