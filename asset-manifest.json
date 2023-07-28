@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/techsavvy/static/css/main.e0f3f45e.css",
+    "main.js": "/techsavvy/static/js/main.e82b1b4c.js",
+    "static/js/787.1e0f5753.chunk.js": "/techsavvy/static/js/787.1e0f5753.chunk.js",
+    "static/media/headphones.jpg": "/techsavvy/static/media/headphones.2b44a705c7109cc5252e.jpg",
+    "static/media/macbook.jpg": "/techsavvy/static/media/macbook.cdf399e5d7724d81b74b.jpg",
+    "static/media/perfume.png": "/techsavvy/static/media/perfume.219e262d6e20ed317bb6.png",
+    "static/media/iphone.jpg": "/techsavvy/static/media/iphone.4466a2d173509be0960a.jpg",
+    "static/media/watch.jpg": "/techsavvy/static/media/watch.66ec804dbb80e6662573.jpg",
+    "static/media/family.png": "/techsavvy/static/media/family.19861000cdae22dee1ac.png",
+    "static/media/chocolates.jpg": "/techsavvy/static/media/chocolates.022c043d6b66d8b8682e.jpg",
+    "static/media/pant.jpg": "/techsavvy/static/media/pant.1819ef4cd7cc90e6b5ae.jpg",
+    "static/media/logo.png": "/techsavvy/static/media/logo.2f4acc57dbe944037aa4.png",
+    "static/media/tab.jfif": "/techsavvy/static/media/tab.021ffffcd3945ecb8f47.jfif",
+    "static/media/shirt.jpg": "/techsavvy/static/media/shirt.8e34a650f0bad42ffde5.jpg",
+    "static/media/buds.webp": "/techsavvy/static/media/buds.63f11f42d03c455dd4c5.webp",
+    "static/media/imac.jpg": "/techsavvy/static/media/imac.888528aab85953261a38.jpg",
+    "static/media/tshirt.jpg": "/techsavvy/static/media/tshirt.f33403c5d564fe31e78e.jpg",
+    "static/media/chips.avif": "/techsavvy/static/media/chips.40cb63274e566a877d5e.avif",
+    "static/media/trackpant.webp": "/techsavvy/static/media/trackpant.1a5bc732c06c0bc3a013.webp",
+    "static/media/shoes.avif": "/techsavvy/static/media/shoes.ca1edf998ab7f375b995.avif",
+    "index.html": "/techsavvy/index.html",
+    "main.e0f3f45e.css.map": "/techsavvy/static/css/main.e0f3f45e.css.map",
+    "main.e82b1b4c.js.map": "/techsavvy/static/js/main.e82b1b4c.js.map",
+    "787.1e0f5753.chunk.js.map": "/techsavvy/static/js/787.1e0f5753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f3f45e.css",
+    "static/js/main.e82b1b4c.js"
+  ]
+}
