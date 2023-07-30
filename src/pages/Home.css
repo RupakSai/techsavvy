@@ -1,0 +1,38 @@
+.flexAll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.arrow{
+    font-size: 20px;
+    margin-left: 3px;
+}
+.flexAllCol{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.home{
+    margin-top: 20px;
+}
+.home .title{
+    font-size: 25px;
+}
+.home .famcon{
+    width: 750px;
+    height: 100%;
+    background-color: rgba(232, 231, 231, 0.768);
+    padding: 10px;
+}
+.home .btn{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(4, 73, 87);
+    width: 175px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+}

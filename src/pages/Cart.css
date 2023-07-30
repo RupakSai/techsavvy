@@ -1,0 +1,23 @@
+.cart{
+    margin-top: 20px;
+}
+.flexAllCol{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cart .ctext{
+    font-size: 20px;
+}
+.btn{
+    font-size: 15px;
+    background-color: rgb(4, 73, 87);
+    color: white;
+    border: 1px solid rgb(4, 73, 87);
+    border-radius: 3px;
+    height: 40px;
+    width: 150px;
+    cursor: pointer;
+    margin: 0 20px 20px 0;
+}

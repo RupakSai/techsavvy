@@ -1,0 +1,22 @@
+.flexAll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flexAllWrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.products{
+    margin-top: 20px;
+}
+.products .title{
+    font-size: 20px;
+}
+.products .plist{
+    margin-top: 20px;
+    background-color: white;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 100%;
+}

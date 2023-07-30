@@ -1,0 +1,34 @@
+.navbar{
+    height: 70px;
+    width: 100vw;
+    background-color: rgb(4, 73, 87);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar .navtitle{
+    user-select: none;
+    height: 100%;
+    width: fit-content;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.navtitle img{
+    height: 40px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.navitems{
+    margin-right: 20px;
+}
+.navitems a{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+.flexall{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
